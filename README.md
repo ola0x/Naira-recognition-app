@@ -16,7 +16,7 @@ This will improve their lifes becuase they wiil no longer depend on the honesty 
 The building process will be in two phase
 - <b>Prove of concept</b></br>
 During this time, we would train with two naira note to understand.</br>
-Do some twerking, hyperparameter tuning of the model. Just to know what works best.</br></br>
+Do some tweaking, hyperparameter tuning of the model. Just to know what works best.</br></br>
 - <b>Full model build</b></br>
 This phase will involve training the model on the eight (8) naira notes, beta testing and tuning the model for better accuracy, precision,and sensitivity.</br>
 Building the android version
