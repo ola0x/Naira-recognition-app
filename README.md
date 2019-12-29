@@ -1,9 +1,9 @@
 # Naira Recognition App
 
 ## Insipration
-An estimated 4.25 million adults aged 40 years in Nigeria are visually impaired or blind. [Reference](https://iceh.lshtm.ac.uk/nigeria-national-blindness-and-visual-impairment-survey/) and this number is expected to rise by average every year.</br>
-The naira does not have any marking for thise visually inpaired to know which one they are holding.</br>  
-This people interact with the community every day. Imagine taking a ride on on getting there he is required to pay, the man will depend on the honesty of the driver to know the amount he/she is holding.</br></br>
+An estimated 4.25 million adults aged 40 years in Nigeria are visually impaired or blind. [Reference](https://iceh.lshtm.ac.uk/nigeria-national-blindness-and-visual-impairment-survey/) and this number is expected to rise by average of 400,000 every year.</br>
+The naira does not have any marking to aid the visually inpaired to know which note they are holding.</br>  
+This people interact with the community every day. Imagine taking a ride on a bus and on getting there he is required to pay, the man will depend on the honesty of the driver to know the amount he/she is holding.</br></br>
 The android application is to help them know to the amount in thier hands before giving the driver.</br>
 
 ## How to solve this</br>
@@ -26,3 +26,7 @@ Building the android version
 - Android studio 3.0+
 - Android 5.0+ upwards
 
+## Future
+- Counting of the notes
+- Audio voice for Other languages in Nigeria
+- Image Recognition for other Country note
